@@ -45,4 +45,4 @@ jupyter lab
 
 ### Démonstration
 
-![alt Demo](demo.gif)
+![alt Demo](.ipynb_checkpoints/KNN.gif)
