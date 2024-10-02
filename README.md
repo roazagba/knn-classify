@@ -42,3 +42,7 @@ jupyter lab
 ```
 
 ---
+
+### Démonstration
+
+![alt Demo](demo.gif)
