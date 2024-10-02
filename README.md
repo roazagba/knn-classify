@@ -15,6 +15,10 @@ Auteurs:
 
 ## _Projet: Développer un modèle d'IA en utilisant la méthode KNN (K-Nearest Neighbors) pour prédire l'admission ou non d'un nouveau candidat dans une équipe de basket-ball_
 
+### Démonstration
+
+![alt Demo](.ipynb_checkpoints/KNN.gif)
+
 ### Installation
 
 **Pré-requis:**: Système d'explotation Windows ou Linux, Python3, pip
@@ -40,9 +44,3 @@ pip install -r requirements.txt
 ```bash
 jupyter lab
 ```
-
----
-
-### Démonstration
-
-![alt Demo](.ipynb_checkpoints/KNN.gif)
